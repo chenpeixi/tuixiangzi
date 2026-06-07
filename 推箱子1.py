@@ -4,6 +4,7 @@ from tkinter import messagebox
 # 基础配置
 CELL_SIZE = 45
 
+
 # 多关卡地图
 LEVELS = [
     # 第一关
